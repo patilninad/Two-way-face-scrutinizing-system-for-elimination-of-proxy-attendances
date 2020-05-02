@@ -5,5 +5,5 @@ which may cause manual errors.
 There are many biometric methods available and adopted recently like, Fingerprint/eyeball detection based. Both these methods are time consuming resulting into queues.  
 Although there are less chances of marking proxy attendances in both of these methods but they are complex and time-consuming. Hence we have used face detection and recognition system along with novel proxy eliminating algorithm.  
 # Algorithm for eliminating proxy attendances:-  
-
+![](https://github.com/patilninad/Two-way-face-scrutinizing-system-for-elimination-of-proxy-attendances/blob/master/Algorithm.PNG)
 
