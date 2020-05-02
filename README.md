@@ -8,5 +8,7 @@ Although there are less chances of marking proxy attendances in both of these me
 ![](https://github.com/patilninad/Two-way-face-scrutinizing-system-for-elimination-of-proxy-attendances/blob/master/Algorithm.PNG)  
 _____________________________________________________________________________________________  
 
-![](https://github.com/patilninad/Two-way-face-scrutinizing-system-for-elimination-of-proxy-attendances/blob/master/Algorithm%202.PNG)
+![](https://github.com/patilninad/Two-way-face-scrutinizing-system-for-elimination-of-proxy-attendances/blob/master/Algorithm%202.PNG)  
+# Prototype of the proposed system:-  
+![]()
 
