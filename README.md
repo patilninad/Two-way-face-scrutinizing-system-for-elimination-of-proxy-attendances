@@ -10,5 +10,5 @@ ________________________________________________________________________________
 
 ![](https://github.com/patilninad/Two-way-face-scrutinizing-system-for-elimination-of-proxy-attendances/blob/master/Algorithm%202.PNG)  
 # Prototype of the proposed system:-  
-![]()
+![](https://github.com/patilninad/Two-way-face-scrutinizing-system-for-elimination-of-proxy-attendances/blob/master/Prototype.jpeg)
 
