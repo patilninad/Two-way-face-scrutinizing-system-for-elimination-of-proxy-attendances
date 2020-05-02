@@ -32,7 +32,17 @@ ________________________________________________________________________________
 
 •	At the end of the day, the updated excel file is uploaded to the Dropbox cloud  whose access is provided to respective faculty members.  
 
-•	This system can be programmed according to the lecture timings which varies in different institutions.  
+•	This system can be programmed according to the lecture timings which varies in different institutions.   
+
+•	For corporate offices modifications can be made accordingly.    
+# Remotely accessing the attendance file:-  
+Attendance for each day is recorded in an excel sheet. In the same manner this is done for all days of the month. Remote access can be provided to anyone who are authorized to view the excel attendance sheet. The excel file is updated on a daily basis at the end of the day. The file is uploaded onto some cloud platform(dropbox).   
+# Blynk Software for remote accessing the excel file:-  
+Blynk is an open source IoT platform which allows us to integrate and connect any non-living thing to the internet by using cloud computing. The attendance system can be rotated by the particular programmed angle by the teachers with the help of this IoT app. We have integrated a button widget on this app for this need. The excel sheet uploaded on dropbox can also be accessed through this app with the help of a widget. This app is available on playstore.  
+![]()
+                                   User Interface of Blynk App
+![]()  
+Excel file uploaded on dropbox
 # Prototype of the proposed system:-  
 ![](https://github.com/patilninad/Two-way-face-scrutinizing-system-for-elimination-of-proxy-attendances/blob/master/Prototype.jpeg)
 
