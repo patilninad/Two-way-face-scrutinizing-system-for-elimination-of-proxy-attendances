@@ -1,4 +1,5 @@
-# Introduction:-
+# Introduction:-  
+Actual project was Face recognition based automatic attendance system. But later we developed a proxy eliminating algorithm and renamed the project. We also submitted our algorithm in Springer Conference for publication in Springer Conference editorials.  
 Recording and maintaining an individual's attendance is a time-consuming task
 in various educational and corporate institution. Most of them implement roll-call based attendance marking system/passing attendance sheet. In these methods there are chances of marking proxy attendances Maintainance of recorded attendance is another major deed
 which may cause manual errors. 
