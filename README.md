@@ -46,11 +46,13 @@ ________________________________________________________________________________
 Excel file uploaded on dropbox  
 # Raspberry Console output:-  
 ![](https://github.com/patilninad/Two-way-face-scrutinizing-system-for-elimination-of-proxy-attendances/blob/master/step1new.PNG)    
+Half way through lecture 1 
 __________________________________________________________________________________________   
 ![](https://github.com/patilninad/Two-way-face-scrutinizing-system-for-elimination-of-proxy-attendances/blob/master/step2.PNG)  
 At the end of Lecture 1  
 __________________________________________________________________________________________  
 ![](https://github.com/patilninad/Two-way-face-scrutinizing-system-for-elimination-of-proxy-attendances/blob/master/step2new.PNG)  
+Half way throught lecture 2
 __________________________________________________________________________________________  
 ![](https://github.com/patilninad/Two-way-face-scrutinizing-system-for-elimination-of-proxy-attendances/blob/master/step3.PNG)     
 At the end of lecture 2  
